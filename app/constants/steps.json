@@ -1,0 +1,119 @@
+{
+    "bounds": {
+        "northeast": {
+            "lat": 40.0149852,
+            "lng": -104.9831705
+        },
+        "southwest": {
+            "lat": 39.7411913,
+            "lng": -105.2702245
+        }
+    },
+    "copyrights": "Map data ©2022 Google",
+    "legs": [
+        {
+            "distance": {
+                "text": "30.2 mi",
+                "value": 48648
+            },
+            "duration": {
+                "text": "45 mins",
+                "value": 2714
+            },
+            "end_address": "Denver, CO, USA",
+            "end_location": {
+                "lat": 39.7411913,
+                "lng": -104.9879949
+            },
+            "start_address": "Boulder, CO, USA",
+            "start_location": {
+                "lat": 40.0149852,
+                "lng": -105.2702238
+            },
+            "steps": [
+                {
+                    "distance": {
+                        "text": "138 ft",
+                        "value": 42
+                    },
+                    "duration": {
+                        "text": "1 min",
+                        "value": 12
+                    },
+                    "end_location": {
+                        "lat": 40.014607,
+                        "lng": -105.2702245
+                    },
+                    "html_instructions": "Head <b>south</b> on <b>19th St</b> toward <b>Arapahoe Ave</b>",
+                    "polyline": {
+                        "points": "ulfsFzqoaSjA?"
+                    },
+                    "start_location": {
+                        "lat": 40.0149852,
+                        "lng": -105.2702238
+                    },
+                    "travel_mode": "DRIVING"
+                },
+                {
+                    "distance": {
+                        "text": "0.6 mi",
+                        "value": 966
+                    },
+                    "duration": {
+                        "text": "2 mins",
+                        "value": 132
+                    },
+                    "end_location": {
+                        "lat": 40.0145799,
+                        "lng": -105.2588978
+                    },
+                    "html_instructions": "Turn <b>left</b> at the 1st cross street onto <b>Arapahoe Ave</b>",
+                    "maneuver": "turn-left",
+                    "polyline": {
+                        "points": "ijfsFzqoaS?sA?uB?k@?qA?kAAe@?e@?k@?sD?sA?E?uC?kAAyA?{A?i@?E?C?a@AaBHS@[?s@?y@?s@?mA@oB?}A@i@?yCAqA?a@Aw@?O"
+                    },
+                    "start_location": {
+                        "lat": 40.014607,
+                        "lng": -105.2702245
+                    },
+                    "travel_mode": "DRIVING"
+                },
+                {
+                    "distance": {
+                        "text": "11.1 mi",
+                        "value": 17813
+                    },
+                    "duration": {
+                        "text": "11 mins",
+                        "value": 672
+                    },
+                    "end_location": {
+                        "lat": 39.9195886,
+                        "lng": -105.1014005
+                    },
+                    "html_instructions": "Turn <b>right</b> onto <b>US-36 E</b>/<wbr/><b>28th St</b>/<wbr/><b>Denver Boulder Turnpike</b><div style=\"font-size:0.9em\">Continue to follow US-36 E/<wbr/>Denver Boulder Turnpike</div>",
+                    "maneuver": "turn-right",
+                    "polyline": {
+                        "points": "cjfsFbkmaSJQBGDEBC@AHGFENMb@D\\BNBx@JN@F@J@@?V@l@BnAAdA?n@AdB?x@?FAL?tB@T@rA?x@?xA?vA?z@@bA?TAN@N?b@?F?b@?H?b@?^A@?N?@?H?P?P?nB@@@N?B?D?@?n@@d@?D?fAAb@?V?~DCF?J?d@?v@Ah@?T?R?X?R?Z?L?V?J?H?R?T?N?Z?R?bA?Z?NAF?J?XCXEJCPEZIRIf@UPM`@]PQLOHKJMNULUDILULYP]@CFKJSLWd@w@JWt@wAPa@`@y@JUNYP_@P_@b@{@t@cBxA{CP_@FKPa@FKXk@JUJSLYRa@Ra@HOJUJSf@cAJWf@cAP_@FMLWTc@P]JWJSLWJSLWJUXk@LUJWLULWN[P]P_@BEFMJUNYJUJUNWJWR_@FKJWJUJOLYLWJULUJWLUJWLUJULWJSLWJUJSLURc@FKJUJULWLUJWLULUJULWJSN[HQLWP_@FK`@}@h@eADKXk@Ra@^w@LWLULWJULUDMR_@JULUJUFODGJULWLUHQHQBEN[JUHON[DKFIJWHOLWNYHQN[JUJQ?CJSP]JSHOJWNWHQLYLW@AJSJS@CJSLW@GFKLWJUL[JSJWJSHUFQFKHUJUPc@BGBIHUJWDOZ{@vA{D~@mCL]Vq@HSHWv@uBRg@b@oA\\}@l@aBt@uBj@iBBGZ}@Nc@HWJWL_@HQTm@N_@Na@Ro@@CPa@DOHSHSL[JYHUDGPa@r@qBp@iBp@iBh@{Ah@{AZ}@pAwDTs@Rm@Xu@v@{BL[Ts@JUHWJWf@wAJYJ[N_@Xw@JYb@oAJYVq@Pg@Vs@Xw@JYRi@J[FOTq@L]L_@Vq@Vq@d@oANa@JYx@yBNe@Ri@HSn@cBr@mBJYHUPc@HSRm@Pc@DMFSJWJ[DKHSZ{@BGRm@JY`@iATo@h@{A^cAL[HYDKJ[FMTu@b@qANe@Ts@HW@?Ro@Rq@Pg@BGl@uBb@{APk@La@v@qCNi@Pi@FS?Aj@yBHUv@qCHY?A@ANe@XeATw@@ANg@x@wCRs@Rm@p@_CHWZgA\\mARq@Lg@HW^sAV}@l@sBhA}DBKJ]BIJ_@BINg@HYDQLc@Po@Lc@Ro@Nk@Ne@Rw@DODKH[DMH[La@V_Ah@gBRw@`@yAPk@Vy@^uAX{@Rs@V_A`@uAJ_@BI^uA\\qAj@_CNi@Le@p@aCPi@H[DMNi@@ARs@Ni@ZcADM^mA@CPm@@C^oA@CV}@Pm@@CX_AVaARm@Ng@V}@Rs@Ro@Po@DMPs@X_Af@aBj@oB^qAHYDONk@Lc@HUHWNg@Ne@?CPm@Ni@\\qA@CRu@J]@CX}@DONg@?ANe@@CRw@Rs@Ni@DQHWDQRq@Lc@V{@\\mATu@Tw@@C^oAPm@V_ATw@dAuD~@_DNk@^mA|BeIr@cCV_AV{@Ni@ZcANk@Tu@\\kAZkATu@Po@Ng@@El@uBPk@J[HWJYRk@b@kAVs@Vo@BIFMXs@HQZq@Xm@JWZk@Xm@NWp@oADEZi@NWZi@b@o@d@q@HMzAwBLQnAeBV_@NS`@k@Zc@p@aABERYFGLSNS\\e@`@k@Ze@FIFINS^i@n@}@LSLQJMXa@JMJQb@m@Va@fA}ALORW\\g@\\e@PY^g@FKT]NUl@}@PYZg@PY\\i@LU^k@LUNWLUNWLUb@w@DEv@uA`@u@h@_Af@_Ah@aAhCqEd@y@LWn@iAVa@LW\\k@pA_CNWLSLWLULULUl@cAXi@Zg@N[h@_Al@gAr@oAb@u@\\o@~@_BFMx@wAJSFMJO`@u@Xg@T_@DIFKFMDEZm@R_@~AqCZk@j@cAHMz@{Av@yAJS@EFUhA_CN]DKTg@Zy@Zw@@C^cADKb@qA@?Pg@Pg@BIZ}@BGNg@Pe@Ne@L[N_@nAoDXy@FQbAuCj@_Bp@mB|@kC`@iA`@qAZ}@l@aB\\_ARk@l@mBn@gB`@kAZ_AXw@Z_ARg@Ne@J[@ADML]Ne@DKPi@Nc@L[Rk@FSL[Tq@To@Ri@Ne@JWFSJYr@gBRe@@?HSJWd@aAXq@LUh@}@LWLUNULUNUNW^o@j@}@JSHKRYLQLQLQ@CNSFGFINU@AJOLO?ARWDGFILQBCLQXa@NSHMFGT[Xa@DGBCJMV_@NSLQLQ\\e@Zc@NSX_@LQ@Ab@m@RYV]RYRY^g@DIPULQn@}@X]b@o@Zc@Xa@JM\\c@\\g@LO@CDGFILQ`@i@LQ^g@Xc@LSDGLQNUPWJSNUJS\\k@LUXi@Zm@LWf@gAXk@Pa@HO\\s@Vm@Xs@j@{AVo@t@uBf@yAj@}AHUNc@`AqCFMHYJWL_@HSBIDKHUBEFSN_@Pg@L[?Ct@uBTm@L_@HUPe@@GHSBG@AZ}@v@{B"
+                    },
+                    "start_location": {
+                        "lat": 40.0145799,
+                        "lng": -105.2588978
+                    },
+                    "travel_mode": "DRIVING"
+                }
+                
+            ],
+            "traffic_speed_entry": [],
+            "via_waypoint": []
+        }
+    ],
+    "overview_polyline": {
+        "points": "ulfsFzqoaSjA??sA?aDAiFAqU?uAAaBHS@oA@kH?sJAyA?OJQHMDEPMNMb@Dl@FhALl@DrF?tDAxGBjK@jCA|KB~OElEAjAMl@Oz@_@r@k@^a@r@eAvAsCxBiEnAiCpFiLtG_NvFiLfKcThNkYlJuRjAeCtAeDzJiXdDeJzAsEvBaGpAiD|BeG`D_J|FqPjCoHfIcUlIgUrGwQfCwHrEsOtFwRxR}q@|Ic[lBqH`B{FfBeGdGqSlH{VlEwOpIcZtOui@lAcElAiDz@{BxAeDpAiCbBwCnByCpEoGlDaFjD}E|KyOxDcGzCkF|Rs]zNoWnJwP`CoEfB_EnA}CjAaDxBsGpH{S~Nwb@`FoNzA{D|@mB~A}Cz@wA`DcFlAcBdEyFjS}XxCgEnCwE|DmIrCuHlBqF`C{GzBmGpAoDrAyDX[Z{@lAiCJU~@oBvBaE~AkChEmFtAiBJARQXMPA\\LXHb@ZpA|@dA`@lAZ`CVhBgG`BkFfB{G^yBp@eFXsDJ{D?aDKoDUeDm@iFwAoGoHg]eBeJYwB?kG@}W?cBJwGDsJB{N?iQBoH?wNBi_@HctAGul@A}KE{PAcFDqIJeIR}VB_b@?aILqd@Bij@B{PGoREyFDoBFy@J_@b@a@tFXtH\\dFLhACTO`CAbCIlDY|Dk@tEeAnEwA~HcDvAg@rC{@`Ck@bEu@rEe@zEStQCxl@Arc@An~@DxVA~O@dL?|CBhLEvEGlE]dEg@zWmDfZ{DhQ{BvGw@|HeArFk@hBKvCInFG~Tg@lWs@~M]rIMlNAnSHlICdDAdB?hB@r@H`G@fSBlFA~I@tA?zCH~B@jH@hDRx@J|Ch@lAXx@RtAd@rGjCfFvBvJ|D|B~@lCdAx@XzErAdEz@tG~@`WpD~Ep@jCTpBJtB?dE@pD@vM@rG@bOB`LAfD@n@?HLBBj@HjAJfANjAX~@ZdAd@vD`BpDx@h@Tf@PrA~@ZZjAjAzApBfAxA~@x@zCbB~EvCx@b@RNf@Tn@VpAZ`BJp@A`AGr@MlB[bBQn@?\\I~BC~GIr@Ct@MdASzAq@t@e@dAgAxAkBv@e@^M|@QpDQj@U|@k@Z[`HyJpIwLfCkD\\]rGApA@jICxG?fEBjHAfE@fD@RBbFEd@p@JDfBdCn@eA?C"
+    },
+    "summary": "US-36 E/Denver Boulder Turnpike, W 120th Ave and I-25 S",
+    "warnings": [],
+    "waypoint_order": []
+ }
+ 
+ 

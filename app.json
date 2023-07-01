@@ -1,4 +1,61 @@
 {
-  "name": "navi",
-  "displayName": "navi"
+  "expo": {
+    "name": "PureNav: Personal Navigation",
+    "scheme": "demo",
+    "owner": "cu-boulder",
+    "slug": "TransportationApp",
+    "version": "1.0.4",
+    "orientation": "portrait",
+    "icon": "./app/assets/icon.png",
+    "splash": {
+      "image": "./app/assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#6979F8"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0,
+      "url": "https://u.expo.dev/62c92fc5-23f1-4371-ace1-d7f15238225f"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false,
+      "infoPlist": {
+        "UIBackgroundModes": [
+          "location",
+          "fetch"
+        ],
+        "NSLocationAlwaysAndWhenInUseUsageDescription": "PureNav needs to access you location to suggest routes to you based on you current location and to notify you when there are road closures along your road.",
+        "NSLocationWhenInUseUsageDescription": "PureNav needs to access you location to suggest routes to you based on you current location and to notify you when there are road closures along your road.",
+        "NSLocationAlwaysUsageDescription": "PureNav needs to access you location to suggest routes to you based on you current location and to notify you when there are road closures along your road."
+      },
+      "bundleIdentifier": "com.neerab1652.TransportationApp",
+      "buildNumber": "2.0.7"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./app/assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "permissions": [
+        "ACCESS_COARSE_LOCATION",
+        "ACCESS_FINE_LOCATION"
+      ],
+      "package": "com.neerab1652.TransportationApp",
+      "googleServicesFile": "./google-services.json",
+      "versionCode": 7
+    },
+    "web": {
+      "favicon": "./app/assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "62c92fc5-23f1-4371-ace1-d7f15238225f"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    }
+  }
 }

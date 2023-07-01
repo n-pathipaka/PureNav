@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "62140672734",
+    "project_id": "transportationapp-bee59",
+    "storage_bucket": "transportationapp-bee59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62140672734:android:8162746075b57b8d32704f",
+        "android_client_info": {
+          "package_name": "com.neerab1652.TransportationApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62140672734-sg7nssl65u9d487rm29uff1vq2r96va3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHM9DaIsU5vLIRZJ0RI1hR_YSSBc4e5UY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62140672734-sg7nssl65u9d487rm29uff1vq2r96va3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
